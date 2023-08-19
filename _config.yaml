@@ -1,10 +1,3 @@
-theme: just-the-docs # jekyll-theme-minimal
-title: Maxineer The Enginner
-description: My Personal Page
-logo: https://github.com/espinm2/staging/raw/main/assets/max_climbs_xs.jpg
-show_downloads: false
-# google_analytics: [Your Google Analytics tracking ID]
-
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
