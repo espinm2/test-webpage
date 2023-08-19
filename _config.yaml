@@ -1,26 +1,6 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            Maxineer The Enginner
-tagline:          'Maxineer the Engineer: Building 2018s Solutions Today!'
-description:      'My Personal Page'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Max Espinoza'
-  url:            https://twitter.com/mdo
-
-paginate:         0
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+theme: jekyll-theme-minimal
+title: Maxineer The Enginner
+description: My Personal Page
+logo: https://github.com/espinm2/staging/raw/main/assets/max_climbs_xs.jpg
+show_downloads: false
+google_analytics:
